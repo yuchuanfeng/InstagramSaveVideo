@@ -1,0 +1,9 @@
+Package: com.yourcompany.09-instagramsavemedia
+Name: 09-InstagramSaveMedia
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 于传峰
+Author: 于传峰
+Section: Tweaks
